@@ -34,6 +34,7 @@ public class HomeActivity extends AppCompatActivity {
     private String heyo;
     private String heyo2;
     private String heyo3;
+    private String heyo4;
 
     private List<Post> Posts = new ArrayList<>();
     RequestQueue requestQueue;
