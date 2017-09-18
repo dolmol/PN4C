@@ -32,6 +32,7 @@ public class HomeActivity extends AppCompatActivity {
 
     private Toolbar HomeToolbar;
     private String heyo;
+    private String heyo2;
 
     private List<Post> Posts = new ArrayList<>();
     RequestQueue requestQueue;
